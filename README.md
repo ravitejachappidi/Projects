@@ -1,3 +1,3 @@
 # Projects
 
-You can find the Projects that related to Machine learning here
+You can find the Projects related to Machine learning here
